@@ -70,5 +70,5 @@ Some useful commands for Linux users
 |head -n 20 파일이름|파일 앞부분 20줄 출력|
 |tail 파일이름|파일 끝부분 10줄 출력|
 |tail -n 20 파일이름|파일 끝부분 20줄 출력|
-|head -n 3 파일이름 || tail -n 1|파일 끝부분 20줄 출력|
+|head -n 3 파일이름 "|" tail -n 1|파일 끝부분 20줄 출력|
 
