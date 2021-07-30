@@ -89,6 +89,8 @@ Some useful commands for Linux users
 
  ## vim
  * 일반 모드, 입력 모드, 비주얼 모드, 명령 모드  
+
+
  ![vim_modes](https://kirkim.github.io/assets/img/etc/vim_image1.png)
 
 
