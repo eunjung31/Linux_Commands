@@ -92,7 +92,7 @@ Some useful commands for Linux users
  ![vim_modes](https://kirkim.github.io/assets/img/etc/vim_image1.png)
 
 
-### 일반 모드
+### 일반 모드  
 ![일반모드_hjkl](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdW8Wrdr58Ib3E7i1eOBm8KCBjPYKGrWopMg&usqp=CAU)
 
 |명령어|설명|
